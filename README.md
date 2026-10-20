@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 
 
-## Project Overview
+## 📋 Project Overview
 
 This project involves:
 1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -40,7 +40,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analytics)
+### 📊 BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
 
@@ -76,8 +76,6 @@ The data architecture for this project follows Medallion Architecture **Bronze, 
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-
-## 📂 Repository Structure
 
 ## 📁 Repository Structure
 
