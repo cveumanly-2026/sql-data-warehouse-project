@@ -138,7 +138,7 @@ This project is licensed under the MIT License.
 
 ## 🌟 About Me
 
-Hi there! I am **Manya Lay, MD**, a Medical Doctor transitioning into Healthcare Data Analytics and Data Engineering.
+Hi there! I am **Manya Lay, MD**, a **Medical Doctor transitioning into Healthcare Data Analytics and Data Engineering**.
 
 My portfolio focuses on combining clinical knowledge with healthcare technology, including:
 
