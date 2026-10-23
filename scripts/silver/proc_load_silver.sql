@@ -249,6 +249,8 @@ BEGIN
         PRINT 'Error Number: '  + CAST (ERROR_NUMBER() AS NVARCHAR(10));
         PRINT 'Error State: '   + CAST (ERROR_STATE() AS NVARCHAR(10));
         PRINT '======================================================'
+			
+		THROW;
     END CATCH
 END;
 
